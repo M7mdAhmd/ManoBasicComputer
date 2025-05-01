@@ -1,0 +1,16 @@
+module ALU(
+    input [15:0] A,
+    input [15:0] B,
+    input [1:0] operation, // 00: ADD, 01: SUB, 10: AND, 11: OR
+    output reg [15:0] result
+);
+    always @(*) begin
+        case (operation)
+            2'b00: result = A + B;
+            2'b01: result = A - B;
+            2'b10: result = A & B;
+            2'b11: result = A | B;
+            default: result = 16'b0;
+        endcase
+    end
+endmodule

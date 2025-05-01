@@ -1,0 +1,20 @@
+module tb_DataRegister;
+    reg clk, reset, load;
+    reg [15:0] data_in;
+    wire [15:0] data_out;
+
+    DataRegister uut(.clk(clk), .reset(reset), .load(load), .data_in(data_in), .data_out(data_out));
+
+    initial begin
+        clk = 0;
+        forever #5 clk = ~clk;
+    end
+
+    initial begin
+        reset = 1; load = 0; data_in = 16'hDEAD;
+        #10 reset = 0; load = 1;
+        #10 data_in = 16'hBEEF;
+        #10 load = 0;
+        #20 $finish;
+    end
+endmodule
