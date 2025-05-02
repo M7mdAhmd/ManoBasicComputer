@@ -61,8 +61,8 @@ Project developed by **The Ohmies** Team
 - [Mohamed Elshoraky](http://www.linkedin.com/in/mohamed-elshoraky)                                                                                              
 - [Ahmed Masoud](http://www.linkedin.com/in/ahmed-masoud12)                                                                                              
 - [Abdulrahman Fayed](https://www.linkedin.com/in/abdulrahman-fayed/)                                                                                              
-- Reem Elbanna                                                                                            
-- Shahd Elsawy                                                                                                                                           
+- [Shahd Elsawy](https://www.linkedin.com/in/shahd-elsawy-3184ba302/)                                                                                              
+- [Reem Elbanna](https://www.linkedin.com/in/reem-el-banna-b05b9433a/)                                                                                                                                         
 - Malak Makky 
 
 Faculty of Engineering                                                                                    
