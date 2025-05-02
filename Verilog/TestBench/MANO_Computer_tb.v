@@ -34,4 +34,3 @@ module tb_MANO_Computer;
         $dumpvars(0, tb_MANO_Computer);
     end
 endmodule
-

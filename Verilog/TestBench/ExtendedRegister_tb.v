@@ -40,4 +40,3 @@ module tb_ExtendedAccumulator;
         #20 $finish;
     end
 endmodule
-

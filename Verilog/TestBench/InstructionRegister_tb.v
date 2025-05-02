@@ -35,4 +35,3 @@ module tb_InstructionRegister;
         #20 $finish;
     end
 endmodule
-

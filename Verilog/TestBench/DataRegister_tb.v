@@ -30,4 +30,3 @@ module tb_DataRegister;
         #10 $finish;   // End the simulation
     end
 endmodule
-

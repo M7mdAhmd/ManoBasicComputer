@@ -53,4 +53,3 @@ module MANO_Computer (
         .read_mem(read_mem), .write_mem(write_mem), .halt(halt)
     );
 endmodule
-

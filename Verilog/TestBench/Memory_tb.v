@@ -38,4 +38,3 @@ module tb_Memory;
         #10 $finish;
     end
 endmodule
-

@@ -53,6 +53,6 @@ See [TestPrograms.md](Docs/ManoBasicComputer_TestPrograms.md) for detailed examp
 - **Register Control**: Optimized data latching and register transfer timing
 
 ## Team
-Project developed by **Ohmies** Team                                                                           
+Project developed by **The Ohmies** Team                                                                           
 Faculty of Engineering                                                                                    
 Kafrelsheikh University                                                                                           

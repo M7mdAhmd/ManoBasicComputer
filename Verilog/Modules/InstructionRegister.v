@@ -9,4 +9,3 @@ module InstructionRegister (
             instruction_out <= instruction_in;
     end
 endmodule
-

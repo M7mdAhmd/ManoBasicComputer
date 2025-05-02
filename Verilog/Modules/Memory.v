@@ -21,4 +21,3 @@ module Memory (
             mem[address] <= data_in;
     end
 endmodule
-
