@@ -44,15 +44,26 @@ The computer implements the complete Mano instruction set including:
 See [TestPrograms.md](Docs/ManoBasicComputer_TestPrograms.md) for detailed examples and test cases used to verify the computer's functionality.
 
 ## Tutorial
-[Watch the Proteus and Verilog Simulation Tutorial](tutorial_link_placeholder)
+[Watch the Full Project Tutorial](Demo/ManoBasicComputer_Tutorial.mp4)                                                                          
+[Watch better-Quality Proteus Simulation part Only](https://www.dropbox.com/scl/fi/rxdu7n5w9o54xw3m3owwj/ManoBasicComputer_Proteus_Simulation.mp4?rlkey=0m4mr01xgb6fwlp0qcw7tkj4b&st=4smkh11h&dl=0)                                                                    
+[Access All Videos on Dropbox](https://www.dropbox.com/scl/fo/wqrinby4qogfchosa22pg/ANOOoK2gy8DY_sf6qFQXBpU?rlkey=nc0vnfz6sollcoaq4ermz9zxr&st=r9my3lly&dl=0)
 
-## Technical Challenges & Solutions
-### Proteus Implementation
+## Technical Challenges
 - **IC Selection**: Carefully selected integrated circuits to properly emulate theoretical components
 - **Timing & Synchronization**: Implemented custom delay circuits using NOT gates for precise micro-operation timing
 - **Register Control**: Optimized data latching and register transfer timing
 
+##
+For detailed information about the design and implementation, please refer to the documentation in the [docs directory](Docs).
+
 ## Team
-Project developed by **The Ohmies** Team                                                                           
+Project developed by **The Ohmies** Team   
+- [Mohamed Elshoraky](http://www.linkedin.com/in/mohamed-elshoraky)                                                                                              
+- [Ahmed Masoud](http://www.linkedin.com/in/ahmed-masoud12)                                                                                              
+- [Abdulrahman Fayed](https://www.linkedin.com/in/abdulrahman-fayed/)                                                                                              
+- Reem Elbanna                                                                                            
+- Shahd Elsawy                                                                                                                                           
+- Malak Makky 
+
 Faculty of Engineering                                                                                    
 Kafrelsheikh University                                                                                           
